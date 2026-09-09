@@ -1,4 +1,4 @@
-def percibe_funcion(mumedadsuelo, evapotranspiracion, clima):
+def percibe_funcion(humedad_suelo, evapotranspiracion, clima):
 # codigo
  pass
 
